@@ -14,7 +14,7 @@ root=Tk()
 
 root.title('Dice App')
 
-root.geometry('600x600')
+root.geometry('400x400')
 
 root.config(bg='#a4a6a6')
 
